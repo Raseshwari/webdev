@@ -1,0 +1,26 @@
+/*Star - everything on page*/
+* {
+	border: 1px solid lightgrey;
+}
+
+/*Descendant Selector - select tags within a tag eg; all anchor tags in li*/
+li a {
+	color : red;
+}
+
+/*Adjacent Selector - tags which come one after the other not nested in one other, 
++ indicates ul adjacent to h4 and not nested in h4*/
+h4 + ul {
+	border: 4px solid green;
+}
+
+/*Attribute Selectors - select all inputs of a particular type like checkboxes, etc.*/
+a[href="http://www.google.com"]{
+	background: blue;
+}
+
+/*n-th of type Selector - select a specific nth element to style*/
+
+ul:nth-of-type(3){
+	background: purple;
+}

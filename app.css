@@ -1,0 +1,24 @@
+h1{
+	color: rgba(30,0,80,.9);
+	/*border-color: green;
+	border-width: 5px;
+	border-style: solid;*/
+
+	border: 5px solid brown;
+}
+
+li{
+	color: orange;
+}
+
+h4{
+	color: green;
+	background: rgb(100,40,0);
+}
+
+body{
+	background: pink;
+	/*background:	url(https://images-na.ssl-images-amazon.com/images/I/41mjUqKBxPL._SY355_.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}
