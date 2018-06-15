@@ -1,0 +1,33 @@
+h1{
+	text-align: center;
+}
+
+td{
+	padding: 50px;
+	width:30%;
+	height:20%;
+	/*background:pink;*/
+	/*border: 0.5px solid black;*/
+}
+
+table{
+	margin: 0 auto 0 auto;
+}
+
+.vertical{
+	border-left: 0.5px solid black;
+	border-right: 0.5px solid black
+}
+
+.horizontal{
+	border-top:0.5px solid black;
+	border-bottom:0.5px solid black;
+}
+
+/*.both{
+	border-left: 0.5px solid black;
+	border-right: 0.5px solid black;
+	border-top:0.5px solid black;
+	border-bottom:0.5px solid black;
+}
+*/

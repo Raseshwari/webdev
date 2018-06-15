@@ -1,0 +1,42 @@
+/*border color: #bdc3c7*/
+/*date color: #3498db*/
+/*h2 color: #2c3e50*/
+/*font: source sans pro*/
+
+
+body{
+	width: 60%;
+	/*height: 20%;*/
+	border: 20px solid #bdc3c7;
+	margin: 20px auto auto auto;
+	padding: 10px;
+	font-family: "source sans pro"
+}
+
+.sideborder{
+	
+	border-left: 4px solid #bdc3c7;
+	padding: 5px;
+}
+
+
+
+h1{
+	margin:5px auto auto auto;
+	text-transform: uppercase;
+	font-weight: 400;
+	font-size: 15px;
+	color: #3498db;
+	letter-spacing: 2px;
+}
+
+h2{
+	color: #2c3e50;
+	font-weight: 700;
+}
+
+hr.style15 {
+	height: 12px;
+    border: 0;
+    box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
+}
